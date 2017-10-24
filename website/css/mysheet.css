@@ -451,6 +451,9 @@ footer .glyphicon{
 	#sec1{
 		width:90%;
 		}
+	footer{
+		margin-top:150px;
+		}
 	}	
 @media (max-width:507px){
 	
