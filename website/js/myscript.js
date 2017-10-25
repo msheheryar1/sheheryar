@@ -47,13 +47,13 @@ $(document).ready(function(e) {
 		
     });
 	$("#link a").click(function(e) {
-       var url='https://www.facebook.com';
+       var url='https://www.upwork.com/o/profiles/users/_~01cc1ef491edab1610/';
 		setTimeout(function(){window.location=url;},1);
 		
 		
     });
 	$("#myname").click(function(e) {
-       var url='https://www.facebook.com';
+       var url='https://www.upwork.com/o/profiles/users/_~01cc1ef491edab1610/';
 		setTimeout(function(){window.location=url;},1);
 		
 		
