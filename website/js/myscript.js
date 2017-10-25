@@ -46,5 +46,19 @@ $(document).ready(function(e) {
 		
 		
     });
+	$("#link a").click(function(e) {
+       var url='https://www.facebook.com';
+		setTimeout(function(){window.location=url;},1);
+		
+		
+    });
+	$("#myname").click(function(e) {
+       var url='https://www.facebook.com';
+		setTimeout(function(){window.location=url;},1);
+		
+		
+    });
+	
+	
 	
 });

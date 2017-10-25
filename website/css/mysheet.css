@@ -76,6 +76,9 @@ a:hover{
 #slider{
 	width:100%;
 	}	
+img{
+	width:100%;
+	}	
 #shadows{
 	width:70%;
 	height:80px;
@@ -108,7 +111,6 @@ a:hover{
 	margin:0 auto;
 	width:90%;
 height:300px;
-position:relative;
 margin-top:-140px;
 	}	
 #uni-sec1,#uni-sec2,#uni-sec3{
@@ -220,6 +222,7 @@ footer .glyphicon{
 	float:left;
 	width:60%;
 	text-align:left;
+	cursor:pointer;
 	}	
 #link{
 		margin-top:5px;
@@ -453,7 +456,7 @@ footer .glyphicon{
 		}
 	footer{
 		margin-top:150px;
-		}
+		}	
 	}	
 @media (max-width:507px){
 	
